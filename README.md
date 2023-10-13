@@ -10,9 +10,7 @@
 * Implemented using Single-head self attention with positional encoding on IMDB sentiment classification [dataset](https://drive.google.com/file/d/140xsu_Cw-ZkPZWKIWdXRPu2VRWKWw7Wd/view?usp=sharing)
 * Watch explanation video [here](https://youtu.be/5YEvHdGP9x4) or explore code [here](/1%20-%20Transformers%20from%20scratch.ipynb)
 
-2. Language Translation Transformer from Scratch
-
-## Language Translation with Multi-head Attention and Positional Encoding
+## 2. Language Translation with Multi-head Attention and Positional Encoding
 
 The [notebook](./2%20-%20Language%20Translation%20with%20Transformers.ipynb) contains the implementation of a language translation model using multi-head attention with positional encoding. The model is trained on an English-French dataset, which can be found [here](./dataset/eng_-french.csv).
 
@@ -22,9 +20,7 @@ The goal of this project is to provide a comprehensive and easy-to-understand im
 
 Please refer to the code files and documentation provided in this repository for detailed explanations and instructions on how to run and use the model effectively. Feel free to explore and modify the code according to your needs.
 
-3. Text Summarization using Keras NLP and Tensorflow
-
-## Text Summarization Model
+## 3. Text Summarization Model
 
 This repository contains the implementation of a text summarization model using the Keras NLP library and TensorFlow. The model is trained on a conversation dataset which can be found in the `dataset/summarization/` directory of this repository.
 
